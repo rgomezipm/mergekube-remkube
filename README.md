@@ -19,13 +19,13 @@ WARNING: Always review source code before doing such an installation. Be sure yo
 Using curl:
 
 ```bash
-bash -c "$(curl -fsSL https://raw.github.com/burkeazbill/MergekubeRemkube/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.github.com/rgomezipm/mergekube-remkube/main/install.sh)"
 ```
 
 Using wget:
 
 ```bash
-bash -c "$(wget -qO- https://raw.github.com/burkeazbill/MergekubeRemkube/main/install.sh)"
+bash -c "$(wget -qO- https://raw.github.com/rgomezipm/mergekube-remkube/main/install.sh)"
 ```
 
 
