@@ -1,4 +1,4 @@
-#!env bash
+#!/usr/bin/env bash
 
 # Title           : mergekube
 # Description     : Merge a kubeconfig file into ~/.kube/config
