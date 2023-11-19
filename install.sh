@@ -31,4 +31,3 @@ cd ..
 # Now confirm they are installed:
 which mergekube
 which remkube
-rm -rf mergekube-remkube/
