@@ -1,4 +1,4 @@
-#!env bash
+#!/usr/bin/env bash
 if [ ! -d "MergekubeRemkube" ]; then
   git clone https://github.com/burkeazbill/MergekubeRemkube.git
 fi
