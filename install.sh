@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 if [ ! -d "MergekubeRemkube" ]; then
-  git clone https://github.com/burkeazbill/MergekubeRemkube.git
+  git clone https://github.com/rgomezipm/mergekube-remkube.git
 fi
 cd MergekubeRemkube
 git pull
