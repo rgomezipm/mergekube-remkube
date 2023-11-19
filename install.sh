@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-if [ ! -d "MergekubeRemkube" ]; then
+if [ ! -d "mergekube-remkube" ]; then
   git clone https://github.com/rgomezipm/mergekube-remkube.git
 fi
-cd MergekubeRemkube
+cd mergekube-remkube
 git pull
 chmod +x mergekube remkube
 
@@ -31,3 +31,4 @@ cd ..
 # Now confirm they are installed:
 which mergekube
 which remkube
+rm -rf mergekube-remkube/
